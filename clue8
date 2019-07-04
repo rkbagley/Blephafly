@@ -1,0 +1,7 @@
+We won't be able to explore the use of this command today, but if you are ever programming on your own machine, you might find the "sudo" command useful. 
+
+When you log into a system, even if it is your own, you generally don't have administrative priviledges. This means that you might be unable to write into some directories or to perform some tasks. 
+
+Putting "sudo" before a command allows you to temporarily gain administrative access.
+
+You can imagine how using this could get you into trouble if you don't know what you are doing, so if you ever have your own system and can gain sudo access - proceed with caution!
